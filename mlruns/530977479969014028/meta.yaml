@@ -1,0 +1,6 @@
+artifact_location: file:///home/guest_miu/MLFLOW_CHECK/mlruns/530977479969014028
+creation_time: 1735887409055
+experiment_id: '530977479969014028'
+last_update_time: 1735887409055
+lifecycle_stage: active
+name: Lung CT Tumor Classification

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guest_miu/MLFLOW_CHECK/mlruns/530977479969014028/f53eca7737ee4c4094bd0fc3d836985d/artifacts
+end_time: 1735894194772
+entry_point_name: ''
+experiment_id: '530977479969014028'
+lifecycle_stage: active
+run_id: f53eca7737ee4c4094bd0fc3d836985d
+run_name: likeable-steed-971
+run_uuid: f53eca7737ee4c4094bd0fc3d836985d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735887572276
+status: 3
+tags: []
+user_id: guest_miu
